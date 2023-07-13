@@ -1,1 +1,1 @@
-export const myPackage = (boz = ''): string => `${boz} from my package`;
+export const myPackage = (boz = ''): string => `${boz} from my package 2`;
