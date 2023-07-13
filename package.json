@@ -1,6 +1,6 @@
 {
   "name": "sasha-npm-ts-test",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "description": "A template for creating npm packages using TypeScript and VSCode",
   "main": "./lib/index.js",
   "files": [
@@ -15,10 +15,6 @@
     "test:watch": "jest --watch",
     "test": "jest --coverage",
     "typecheck": "tsc --noEmit"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ryansonshine/typescript-npm-package-template.git"
   },
   "engines": {
     "node": ">=12.0"
